@@ -1,0 +1,15 @@
+c:\users\gatis\documents\visual studio 2015\Projects\StockAppV3\StockAppV3\bin\Debug\StockAppV3.exe.config
+c:\users\gatis\documents\visual studio 2015\Projects\StockAppV3\StockAppV3\bin\Debug\StockAppV3.exe
+c:\users\gatis\documents\visual studio 2015\Projects\StockAppV3\StockAppV3\bin\Debug\StockAppV3.pdb
+c:\users\gatis\documents\visual studio 2015\Projects\StockAppV3\StockAppV3\obj\Debug\StockAppV3.Form1.resources
+c:\users\gatis\documents\visual studio 2015\Projects\StockAppV3\StockAppV3\obj\Debug\StockAppV3.Properties.Resources.resources
+c:\users\gatis\documents\visual studio 2015\Projects\StockAppV3\StockAppV3\obj\Debug\StockAppV3.csproj.GenerateResource.Cache
+c:\users\gatis\documents\visual studio 2015\Projects\StockAppV3\StockAppV3\obj\Debug\StockAppV3.exe
+c:\users\gatis\documents\visual studio 2015\Projects\StockAppV3\StockAppV3\obj\Debug\StockAppV3.pdb
+C:\Users\Gatis\documents\visual studio 2015\Projects\StockAppV3\StockAppV3\obj\Debug\StockAppV3.csprojResolveAssemblyReference.cache
+C:\Users\Gatis\documents\visual studio 2015\Projects\StockAppV3\StockAppV3\obj\Debug\StockAppV3.adjustments.resources
+C:\Users\Gatis\documents\visual studio 2015\Projects\StockAppV3\StockAppV3\obj\Debug\StockAppV3.Condition.resources
+C:\Users\Gatis\documents\visual studio 2015\Projects\StockAppV3\StockAppV3\obj\Debug\StockAppV3.holidays.resources
+C:\Users\Gatis\documents\visual studio 2015\Projects\StockAppV3\StockAppV3\obj\Debug\StockAppV3.rota.resources
+C:\Users\Gatis\documents\visual studio 2015\Projects\StockAppV3\StockAppV3\obj\Debug\StockAppV3.stock.resources
+C:\Users\Gatis\documents\visual studio 2015\Projects\StockAppV3\StockAppV3\obj\Debug\StockAppV3.updateUser.resources
